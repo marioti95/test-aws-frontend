@@ -16,4 +16,4 @@ artifacts:
   files:
     - "dist/**/*"
     - "appspec.yml"
-  discard-paths: no
+  discard-paths: yes
